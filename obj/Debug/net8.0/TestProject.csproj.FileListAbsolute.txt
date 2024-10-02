@@ -1,0 +1,14 @@
+E:\codes\cSharpLearning\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+E:\codes\cSharpLearning\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+E:\codes\cSharpLearning\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+E:\codes\cSharpLearning\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+E:\codes\cSharpLearning\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+E:\codes\cSharpLearning\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
