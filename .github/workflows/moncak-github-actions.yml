@@ -1,8 +1,9 @@
-name: GitHub Actions Demo
+name: GitHub Actions by Moncak
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
+
 jobs:
-  Explore-GitHub-Actions:
+  csharp-build:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -16,3 +17,8 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Build the code
+        run: |
+          echo "🛠️ The code is being built..."
+          dotnet build
+          echo "🧪 The code was built successfully!"
