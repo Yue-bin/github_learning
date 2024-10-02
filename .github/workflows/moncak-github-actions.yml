@@ -19,6 +19,6 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: Build the code
       - run: |
-        echo "🛠️ The code is being built..."
-        dotnet build
-        echo "🧪 The code was built successfully!"
+          echo "🛠️ The code is being built..."
+          dotnet build
+          echo "🧪 The code was built successfully!"
