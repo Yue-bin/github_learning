@@ -12,5 +12,10 @@ jobs:
       - name: Build the code
         run: |
           echo "🛠️ The code is being built..."
-          dotnet build
+          dotnet build --debug
           echo "🧪 The code was built successfully!"
+      - name: Upload Go test results
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: ./bin/Debug/net8.0/TestProject
